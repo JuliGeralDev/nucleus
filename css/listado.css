@@ -4,6 +4,7 @@
     margin-bottom: 5rem;
     transition-property: transform;
     transition-duration: 300ms;
+    background-color: var(--blanco);
 }
 
 .listado__elemento:hover{
