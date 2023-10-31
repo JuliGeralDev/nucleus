@@ -17,7 +17,31 @@
     margin: 0;
 }
 
+.listado__numero{
+    font-size: 6rem;
+    margin: 0;
+    font-weight: 700;
+    color: var(--primario);
+    text-align: center;
+}
+
 .listado__texto{
     margin: 0;
     font-size: 2rem;
+}
+
+@media (min-width: 768px){
+    .listado__elemento--2col{
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        gap: 2rem;
+
+    }
+
+    .listado__numero{
+        flex-basis: 20rem;
+        text-align: right;
+        font-size: 4rem;
+    }
 }
