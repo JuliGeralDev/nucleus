@@ -6,7 +6,7 @@
 
 ## 🔗 Live Preview
 
-👉 Coming soon on Netlify...
+[👉 View the Demo on Netlify](https://nucleus-juligeraldev.netlify.app/)
 
 ## ✨ Features
 
